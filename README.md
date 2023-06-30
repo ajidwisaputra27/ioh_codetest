@@ -1,6 +1,6 @@
 ## How to install
 
-- git clone https://github.com/ajidwisaputra/ioh_codetest.git
+- git clone https://github.com/ajidwisaputra27/ioh_codetest.git
 - cp .env.example .env
 - composer install
 - php artisan migrate:fresh --seed
